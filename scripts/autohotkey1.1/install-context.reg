@@ -18,3 +18,8 @@ Windows Registry Editor Version 5.00
 "ProgId"="AutoHotkeyScript"
 "Hash"="297hHjOiE80="
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.ahk]
+@="AutoHotkeyScript"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\.ahk\ShellNew]
+"FileName"="Template.ahk"
